@@ -1,0 +1,8 @@
+This is the project files for our project. You have to install and run Mongo DB Compass for it to work.
+After MongoDB server is running, from there you can connect to the server from the compass.
+Once you have connected it install both the backend and frontend.
+The open Vidual Studio code, if you haven't installed it install that then open it.
+Once Visual Studio Code is open on the backend file and then in the terminal run "npm install", "npm run build" and then "npm run start"
+Eventually it will say that it is connected to the server.
+Then open another Visual Studio Page and then open the frontend and in the terminal run "npm install, "npm run build" and then "npm run start"
+Eventually a webpage should open having our project and the information.
